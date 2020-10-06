@@ -1,0 +1,3 @@
+clear
+
+sl_refresh_customizations
